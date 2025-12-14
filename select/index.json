@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さらしもの",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-14T13:03:11.107422Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さらしもの (feat. PUNPEE)",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_さらしもの_(feat._PUNPEE)_星野源.txt"
+    }
+  ]
+}
